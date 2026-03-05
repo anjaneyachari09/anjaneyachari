@@ -11,7 +11,7 @@
 ![Java](https://img.shields.io/badge/Java-red)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjaneyachari&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anjaneyachari09&show_icons=true)
 
 
 ##  Connect with me
